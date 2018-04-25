@@ -9,8 +9,8 @@
 - git:
     local-name: sawyer_robot
     uri: https://github.com/RyodoTanaka/sawyer_robot.git
-    version: master
+    version: kinetic-devel
 - git:
     local-name: sawyer_moveit
     uri: https://github.com/RyodoTanaka/sawyer_moveit.git
-    version: master
+    version: kinetic-devel
