@@ -8,9 +8,9 @@
     version: master
 - git:
     local-name: sawyer_robot
-    uri: https://github.com/RethinkRobotics/sawyer_robot.git
+    uri: https://github.com/RyodoTanaka/sawyer_robot.git
     version: master
 - git:
     local-name: sawyer_moveit
-    uri: https://github.com/RethinkRobotics/sawyer_moveit.git
+    uri: https://github.com/RyodoTanaka/sawyer_moveit.git
     version: master
